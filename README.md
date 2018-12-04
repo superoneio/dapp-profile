@@ -42,7 +42,7 @@ EOS LIVE 在 DApp 中心提供 DApp 浏览器供开发者调试，提高对接�
 以上资料打包发到邮箱：**dapp@superone.io**，技术对接采用微信群和 Telegram 群（必要时电话）的方式，资料发到邮箱之后，请联系 Robin，联系方式：
 
 * Tel：13068822239
-* 微信：Wentasy
+* 微信：fornull
 * Telegram：robinwen
 
 SuperONE Team
